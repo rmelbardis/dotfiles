@@ -56,12 +56,10 @@
 
 [pull]
   rebase = false
-<<<<<<< HEAD
+
 [user]
 	email = rmelbardis@gmail.com
 	name = Reinis Melbardis
-=======
 
 [init]
   defaultBranch = master
->>>>>>> upstream/master
